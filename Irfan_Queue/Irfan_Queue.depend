@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1525565631 source:f:\program\irfan_queue\main.c
+	<stdio.h>
+	<conio.h>
+
